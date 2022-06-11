@@ -1,0 +1,10 @@
+.header-container{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    background-color: white;
+
+}

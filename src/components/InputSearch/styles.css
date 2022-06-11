@@ -1,0 +1,50 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 3rem;
+}
+.input-and-button {
+  display: flex;
+  gap: 2rem;
+}
+.buttons{
+    display: flex;
+    gap:1rem;
+}
+input {
+  background-color: white;
+  border: 0;
+  border-radius: 8px;
+  padding-left: 1rem;
+  height: 30px;
+}
+button {
+  background-color: white;
+  border: 0;
+  border-radius: 8px;
+  height: 30px;
+}
+button:hover {
+  background: #ffffffcc;
+}
+p {
+  color: white;
+}
+.content-container {
+  width: 350px;
+  height: 150px;
+  background-color: white;
+  font-size: 20px;
+  display: flex;
+}
+li {
+  list-style-type: none;
+  background-color: white;
+}
+ul {
+  padding-left: 25px;
+  background-color: white;
+}
